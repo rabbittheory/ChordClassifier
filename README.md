@@ -22,7 +22,7 @@ ChordClassifier is a Jupyter Notebook project that classifies musical chords usi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ChordClassifier.git
+   git clone https://github.com/rabbittheory/ChordClassifier.git
    ```
 2. Navigate to the project directory:
    ```
